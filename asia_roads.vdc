@@ -1,0 +1,25 @@
+file format : IDRISI Vector A.1
+file title  : Asia Roads
+id type     : integer
+file type   : binary
+object type : line
+ref. system : latlong
+ref. units  : deg
+unit dist.  : 1
+min. X      : 19.891412
+max. X      : 152.152267456055
+min. Y      : -10.2179946899414
+max. Y      : 69.536528
+pos'n error : unknown
+resolution  : unknown
+min. value  : 1
+max. value  : 2088
+display min : 1
+display max : 2088
+value units : classes
+value error : unknown
+flag value  : none
+flag def'n  : none
+legend cats : 0
+lineage     : This file was created by SHAPEIDR with the command line:
+lineage     : SHAPEIDR 1*C:\James_Macon\Asia Level1\asia_roads.shp*C:\James_Macon\IDRISI Format\Asia_level1\asia_roads.vct*latlong*deg*1.0

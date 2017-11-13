@@ -1,0 +1,25 @@
+file format : IDRISI Vector A.1
+file title  : World Nations
+id type     : integer
+file type   : binary
+object type : polygon
+ref. system : latlong
+ref. units  : deg
+unit dist.  : 1
+min. X      : -179.999999
+max. X      : 179.999999
+min. Y      : -89.9000005398
+max. Y      : 83.627419
+pos'n error : unknown
+resolution  : unknown
+min. value  : 1
+max. value  : 238
+display min : 1
+display max : 238
+value units : classes
+value error : unknown
+flag value  : none
+flag def'n  : none
+legend cats : 0
+lineage     : This file was created by SHAPEIDR with the command line:
+lineage     : SHAPEIDR 1*C:\James_Macon\World Level0\worldnations_gcs_wgs84.shp*C:\James_Macon\IDRISI Format\World_level0\world_nations.vct*plane*deg*1.0

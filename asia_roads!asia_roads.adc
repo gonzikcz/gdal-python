@@ -1,0 +1,29 @@
+file format : IDRISI Values A.1
+file title  : Database: asia_roads; Table: asia_roads
+file type   : ascii
+records     : 2088
+fields      : 2
+field 0     : IDR_ID
+data type   : integer
+format      : 0
+min. value  : 1
+max. value  : 2088
+display min : 1
+display max : 2088
+value units : value
+value error : unknown
+flag value  : none
+flag def'n  : na
+legend cats : 0
+field 1     : NAME
+data type   : string
+format      : 0
+min. value  : na
+max. value  : na
+display min : na
+display max : na
+value units : value
+value error : unknown
+flag value  : none
+flag def'n  : na
+legend cats : 0

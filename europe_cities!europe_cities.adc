@@ -1,0 +1,29 @@
+file format : IDRISI Values A.1
+file title  : Database: europe_cities; Table: europe_cities
+file type   : ascii
+records     : 10530
+fields      : 2
+field 0     : IDR_ID
+data type   : integer
+format      : 0
+min. value  : 1
+max. value  : 10530
+display min : 1
+display max : 10530
+value units : value
+value error : unknown
+flag value  : none
+flag def'n  : na
+legend cats : 0
+field 1     : NAME
+data type   : string
+format      : 0
+min. value  : na
+max. value  : na
+display min : na
+display max : na
+value units : value
+value error : unknown
+flag value  : none
+flag def'n  : na
+legend cats : 0

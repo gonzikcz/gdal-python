@@ -1,0 +1,23 @@
+file format : IDRISI Vector A.1
+file title  : Eastern Pamlico NC Coast
+id type     : integer
+file type   : binary
+object type : line
+ref. system : utm-18n
+ref. units  : m
+unit dist.  : 1
+min. X      : 340267.050755
+max. X      : 366799.050755
+min. Y      : 3883246.6155078
+max. Y      : 3905590.6155078
+pos'n error : unknown
+resolution  : unknown
+min. value  : 0
+max. value  : 26096
+display min : 0
+display max : 26096
+value units : unspecified
+value error : unknown
+flag value  : none
+flag def'n  : none
+legend cats : 0

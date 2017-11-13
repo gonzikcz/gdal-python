@@ -1,0 +1,29 @@
+file format : IDRISI Values A.1
+file title  : Database: africa_lakes; Table: africa_lakes
+file type   : ascii
+records     : 81
+fields      : 2
+field 0     : IDR_ID
+data type   : byte
+format      : 0
+min. value  : 1
+max. value  : 81
+display min : 1
+display max : 81
+value units : value
+value error : unknown
+flag value  : none
+flag def'n  : na
+legend cats : 0
+field 1     : NAME
+data type   : string
+format      : 0
+min. value  : na
+max. value  : na
+display min : na
+display max : na
+value units : value
+value error : unknown
+flag value  : none
+flag def'n  : na
+legend cats : 0

@@ -1,0 +1,13 @@
+vector file : world_nations
+database    : world_nations
+file type   : new_access
+table       : world_nations
+link field  : IDR_ID
+image cols  : 
+image rows  : 
+ref. system : 
+ref. units  : 
+min. X      : 
+max. X      : 
+min. Y      : 
+max. Y      : 

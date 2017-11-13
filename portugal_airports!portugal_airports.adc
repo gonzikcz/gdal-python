@@ -1,0 +1,41 @@
+file format : IDRISI Values A.1
+file title  : Database: portugal_airports; Table: portugal_airports
+file type   : ascii
+records     : 32
+fields      : 3
+field 0     : IDR_ID
+data type   : byte
+format      : 0
+min. value  : 1
+max. value  : 32
+display min : 1
+display max : 32
+value units : value
+value error : unknown
+flag value  : none
+flag def'n  : na
+legend cats : 0
+field 1     : Type
+data type   : string
+format      : 0
+min. value  : na
+max. value  : na
+display min : na
+display max : na
+value units : value
+value error : unknown
+flag value  : none
+flag def'n  : na
+legend cats : 0
+field 2     : Name
+data type   : string
+format      : 0
+min. value  : na
+max. value  : na
+display min : na
+display max : na
+value units : value
+value error : unknown
+flag value  : none
+flag def'n  : na
+legend cats : 0

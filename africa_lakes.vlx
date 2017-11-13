@@ -1,0 +1,13 @@
+vector file : africa_lakes
+database    : africa_lakes
+file type   : new_access
+table       : africa_lakes
+link field  : IDR_ID
+image cols  : 
+image rows  : 
+ref. system : 
+ref. units  : 
+min. X      : 
+max. X      : 
+min. Y      : 
+max. Y      : 

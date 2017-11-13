@@ -1,0 +1,25 @@
+file format : IDRISI Vector A.1
+file title  : Africa Lakes
+id type     : integer
+file type   : binary
+object type : polygon
+ref. system : latlong
+ref. units  : deg
+unit dist.  : 1
+min. X      : -15.937034
+max. X      : 48.627398
+min. Y      : -30.740773
+max. Y      : 35.562185
+pos'n error : unknown
+resolution  : unknown
+min. value  : 1
+max. value  : 81
+display min : 1
+display max : 81
+value units : classes
+value error : unknown
+flag value  : none
+flag def'n  : none
+legend cats : 0
+lineage     : This file was created by SHAPEIDR with the command line:
+lineage     : SHAPEIDR 1*C:\James_Macon\Africa Level1\africa_lakes.shp*C:\James_Macon\IDRISI Format\Africa_level1\africa_lakes.vct*latlong*deg*1.0

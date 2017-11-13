@@ -1,0 +1,25 @@
+file format : IDRISI Vector A.1
+file title  : Europe Cities
+id type     : integer
+file type   : binary
+object type : point
+ref. system : latlong
+ref. units  : deg
+unit dist.  : 1
+min. X      : -27.219896
+max. X      : 44.587817
+min. Y      : 27.853816
+max. Y      : 70.662914
+pos'n error : unknown
+resolution  : unknown
+min. value  : 1
+max. value  : 10530
+display min : 1
+display max : 10530
+value units : classes
+value error : unknown
+flag value  : none
+flag def'n  : none
+legend cats : 0
+lineage     : This file was created by SHAPEIDR with the command line:
+lineage     : SHAPEIDR 1*C:\James_Macon\Europe Level1\europe_cities.shp*C:\James_Macon\IDRISI Format\Europe_level1\europe_cities.vct*latlong*deg*1.0

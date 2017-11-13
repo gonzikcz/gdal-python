@@ -1,0 +1,13 @@
+vector file : asia_roads
+database    : asia_roads
+file type   : new_access
+table       : asia_roads
+link field  : IDR_ID
+image cols  : 
+image rows  : 
+ref. system : 
+ref. units  : 
+min. X      : 
+max. X      : 
+min. Y      : 
+max. Y      : 
